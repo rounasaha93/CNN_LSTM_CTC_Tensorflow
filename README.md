@@ -12,8 +12,8 @@ I trained a model with 100k images using this code and got 99.75% accuracy on te
 
 You can avail the datasets here :
 
-a) http://baidudeeplearning.bj.bcebos.com/image_contest_level_1.tar.gz (Training)
-b) http://baidudeeplearning.bj.bcebos.com/image_contest_level_1_validate.tar.gz (Validation/Testing)
+![] a) http://baidudeeplearning.bj.bcebos.com/image_contest_level_1.tar.gz (Training)
+![] b) http://baidudeeplearning.bj.bcebos.com/image_contest_level_1_validate.tar.gz (Validation/Testing)
 
 
 **Update 2017.11.6**:
